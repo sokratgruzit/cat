@@ -1,0 +1,21 @@
+{
+  "header.about_us": "About us",
+  "header.main": "Main page",
+  "header.pretty": "Pretty Cats",
+  "footer.reserved": "Dirty Boys. All rights reserved.",
+  "about.title": "About us",
+  "about.text": "Skillbrains (through itself or third parties) collects and accumulates anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. Data that we may collect includes: device characteristics (including device ID for mobile devices), operating system, browser type, IP address, username from stored cookies if present, dates and times of each login, page and image viewing statistics, and incoming and outgoing links. None of this information is 'personal data' – that is, data we could use to identify a specific person. Some of this information could, however, become personal data because we provide automatically collected anonymous data to third party advertisers, and those third parties might be able to combine our anonymous data with other data they have to enable them to identify people.",
+  "main.title": "The fastest way to take a customizable screenshot",
+  "main.item_title0": "Fast screenshot of selected area",
+  "main.item_text0": "Our app allows you to select any area on your desktop and take its screenshot with 2 button-clicks.",
+  "main.item_title1": "Easy-to-use application",
+  "main.item_text1": "Simple and intuitive user interface makes your work with the app easier and faster.",
+  "main.item_title2": "Share screenshots via Internet",
+  "main.item_text2": "Upload your screenshot to the server and get its short link right away.",
+  "main.item_title3": "Powerful editors",
+  "main.item_text3": "You can edit screenshots instantly when taking them or later using a powerful online editor.",
+  "main.item_title4": "Similar image search",
+  "main.item_text4": "Find similar images. Select any image on your screen and find dozens similar images.",
+  "main.item_title5": "Various Platforms",
+  "main.item_text5": "Lightshot is available for Windows/Mac, Chrome, Firefox, IE & Opera."
+}

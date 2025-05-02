@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.title {
+    font-size: 26px;
+    color: #FFF;
+    text-align: center;
+    height: 50px;
+    position: relative;
+}
+
+.items {
+    position: relative;
+    width: 100%;
+    height: auto;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: repeat(3, auto);
+}
+
+@media only screen and (max-width: 768px) {
+    .title {
+        font-size: 16px;
+    }
+
+    .items {
+        grid-template-columns: 1fr; 
+        grid-template-rows: repeat(6, auto);
+    }
+}

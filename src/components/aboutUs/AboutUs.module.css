@@ -1,0 +1,16 @@
+.container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.title {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.text {
+    line-height: 40px;
+}
