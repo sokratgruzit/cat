@@ -1,10 +1,6 @@
-import { useTranslation } from "react-i18next";
-
 import styles from "./Cube.module.css";
 
 export const Cube = () => {
-    const { t } = useTranslation("common");
-
     return (
         <div className={styles.container}>
             <div className={styles.cubeContainer}>
