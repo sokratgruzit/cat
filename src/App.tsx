@@ -8,6 +8,7 @@ import { Layout } from "./components/layout/Layout";
 import { Home } from "./components/home/Home";
 import { AboutUs } from "./components/aboutUs/AboutUs";
 import { PrettyCats } from "./components/prettyCats/PrettyCats";
+import { Cube } from "./components/cube/Cube";
 
 function App() {
   const openBurger = useAppSelector((state) => state.app.openBurger);
@@ -41,6 +42,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<AboutUs />} />
         <Route path="/pretty-cats" element={<PrettyCats />} />
+        <Route path="/cube" element={<Cube />} />
       </Route>
     </Routes>
   )

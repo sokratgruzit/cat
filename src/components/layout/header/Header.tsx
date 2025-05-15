@@ -48,6 +48,9 @@ const Header = () => {
           <Link to={"/about-us"} className={styles.headerLink}>
             {t("header.about_us")}
           </Link>
+          <Link to={"/cube"} className={styles.headerLink}>
+            Cube
+          </Link>
         </div>
         <NavBar />
         <Languages />
